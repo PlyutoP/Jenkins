@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SwingDemoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-12-17T10:00:00" hostname="PC210-05" time="0.003">
+  <properties/>
+  <testcase name="testSomeLibraryMethod" classname="SwingDemoTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
